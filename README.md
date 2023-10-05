@@ -1,2 +1,2 @@
 # Unit2.Froyo
-hello there
+When a visitor opens the website, they are greeted with a prompt to input a list of froyo flavors separated by commas. For example, they might enter 'vanilla, vanilla, vanilla, strawberry, coffee, coffee.' Upon submitting this input, the browser console displays a table that shows the quantity of each flavor they've ordered. In this specific case, the user can see that they've ordered three servings of vanilla, two servings of coffee, and one serving of strawberry froyo.
